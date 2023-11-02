@@ -1,0 +1,10 @@
+https://openjdk.org/projects/jdk/19/
+
+Features
+405:	Record Patterns (Preview)
+422:	Linux/RISC-V Port
+424:	Foreign Function & Memory API (Preview)
+425:	Virtual Threads (Preview)
+426:	Vector API (Fourth Incubator)
+427:	Pattern Matching for switch (Third Preview)
+428:	Structured Concurrency (Incubator)
